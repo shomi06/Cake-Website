@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "VANILLA",
+    "description": "Praesent bibendum bibendum ex, quis scelerisque purus rutrum hendrerit. ",
+    "src": "/taste2.svg"
+  },
+  {
+    "id": 2,
+    "title": "CHOCOLATE",
+    "description": "Praesent bibendum bibendum ex, quis scelerisque purus rutrum hendrerit. ",
+    "src": "/taste3.svg"
+  },
+  {
+    "id": 3,
+    "title": "BANANA",
+    "description": "Praesent bibendum bibendum ex, quis scelerisque purus rutrum hendrerit. ",
+    "src": "/taste4.svg"
+  },
+  {
+    "id": 4,
+    "title": "KIWI",
+    "description": "Praesent bibendum bibendum ex, quis scelerisque purus rutrum hendrerit. ",
+    "src": "/taste5.svg"
+  },
+  {
+    "id": 0,
+    "title": "Strawberry",
+    "description": "Praesent bibendum bibendum ex, quis scelerisque purus rutrum hendrerit. ",
+    "src": "/taste1.svg"
+  }
+]
