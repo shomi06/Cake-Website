@@ -3,8 +3,8 @@ import { Button } from "./ui/button";
 
 export default function CakeCards() {
   return (
-    <div className="flex w-[280px] mx-auto flex-col items-center mb-[60px]">
-      <h1 className="text-sm text-center font-light my-[50px]">
+    <div className="flex w-[280px] mx-auto flex-col items-center">
+      <h1 className="text-sm text-center font-light mb-[50px]">
         <span className="font-medium text-primary">
           Posebne torte za posebne prilike
         </span>

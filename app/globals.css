@@ -50,6 +50,10 @@ body {
   box-sizing: border-box;
 }
 
+.responsive-headers {
+  font-size: clamp(30px, 10vw, 54px);
+}
+
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
